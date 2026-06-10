@@ -1,2 +1,2 @@
-##  Just another human; the interesting part isn't documented.
-
+##  Just another human.
+##  the interesting part isn't documented.
